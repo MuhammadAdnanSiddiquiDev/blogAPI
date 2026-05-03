@@ -96,7 +96,6 @@ npm run dev
 | POST   | /api/posts/createPost   | Create post (Protected)             |
 | GET    | /api/posts              | Get all posts (Pagination + Search) |
 | GET    | /api/posts/:id          | Get single post                     |
-| GET    | /api/posts/user/:userId | Get posts by user                   |
 | PUT    | /api/posts/:id          | Update post (Owner only)            |
 | DELETE | /api/posts/:id          | Delete post (Owner only)            |
 
